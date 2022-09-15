@@ -1,5 +1,3 @@
-#Obrigado professor pelas aulas e por todo o conhecimento que nos passou!!!
-
 binario = int(input("Digite o número binário para ser convertido para decimal: "))
 
 def Bin2Dec(binario):
